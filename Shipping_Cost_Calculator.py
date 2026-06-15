@@ -1,6 +1,4 @@
  # Here is a new update by rakshanaa215
-# Here is another update by <your GitHub username>
-
 
 
 ## Input package weight and shipping rate
